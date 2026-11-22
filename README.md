@@ -1,2 +1,24 @@
-# edugalaxy
+# 🌍 EduGalaxy
+
+### Explore. Learn. Succeed.
+
+Welcome to EduGalaxy – Your Learning Destination!
+
+EduGalaxy provides educational resources for students of Classes 9 to 12.
+
+## 📚 What We Offer
+- Class 9th to 12th Study Materials
+- Chapter-wise Notes
+- Detailed Solutions
+- Important Questions
+- Hindi and English Content
+- Free Learning Resources
+
+## 🎯 Our Mission
+To make quality education accessible to every student.
+
+## 🌐 Website
+Coming Soon!
+
+© 2026 EduGalaxy# edugalaxy
 A Complete Learning Platform for Classes 9–12 | Notes, Solutions, Study Materials in Hindi &amp; English.
